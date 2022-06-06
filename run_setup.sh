@@ -2,5 +2,5 @@
 
 sudo pacman -S arch-wiki-docs
 
-sudo parse_txt.py
+sudo python3 parse_txt.py
 
