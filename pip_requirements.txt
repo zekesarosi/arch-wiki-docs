@@ -1,6 +1,6 @@
-"webbrowser"
-"dmenu"
-"glob"
-"re"
-"rank_bm25"
-"bs4"
+webbrowser
+dmenu
+glob
+re
+rank_bm25
+bs4
