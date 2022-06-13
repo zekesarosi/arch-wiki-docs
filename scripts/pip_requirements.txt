@@ -1,4 +1,3 @@
 dmenu
-re
 rank_bm25
 bs4
