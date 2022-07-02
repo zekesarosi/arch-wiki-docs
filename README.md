@@ -7,18 +7,18 @@ I wanted to create something like this because on long flights without access to
 ### Installation:
 
 On your arch system use pacman to install the arch-wiki-docs package.
-##### sudo pacman -S arch-wiki-docs
+`sudo pacman -S arch-wiki-docs`
 
 The docs will be saved into /usr/share/doc/arch-wiki/
 
 
 Clone the repository to download the script.
-##### git clone (https://github.com/zekesarosi/arch-wiki-docs/)
+`git clone (https://github.com/zekesarosi/arch-wiki-docs/)` 
 
 Change directories into the cloned repository.
-##### cd arch-wiki-docs
+`cd arch-wiki-docs/`
 
 Mark the 'run_setup.sh' script as executable.
-##### chmod +x run_setup.sh
+`chmod +x run_setup.sh`
 
 
